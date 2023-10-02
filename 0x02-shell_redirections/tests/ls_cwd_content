@@ -1,0 +1,16 @@
+total 44
+drwxr-xr-x 3 root root 251 Oct  2 13:19 .
+drwxr-xr-x 6 root root 121 Oct  2 12:29 ..
+-rwxr--r-- 1 root root  32 Oct  2 12:32 0-hello_world
+-rwxr--r-- 1 root root  37 Oct  2 12:44 1-confused_smiley
+-rwxr--r-- 1 root root  28 Oct  2 12:47 2-hellofile
+-rwxr--r-- 1 root root  39 Oct  2 12:51 3-twofiles
+-rwxr--r-- 1 root root  35 Oct  2 12:53 4-lastlines
+-rwxr--r-- 1 root root  35 Oct  2 12:55 5-firstlines
+-rwxr--r-- 1 root root  40 Oct  2 12:59 6-third_line
+-rwxr--r-- 1 root root  78 Oct  2 13:10 7-file
+-rwxr--r-- 1 root root  36 Oct  2 13:18 8-cwd_state
+-rw-r--r-- 1 root root   6 Oct  2 13:03 .gitignore
+-rw-r--r-- 1 root root   0 Oct  2 13:19 ls_cwd_content
+-rw-r--r-- 1 root root  19 Oct  2 12:30 README.md
+drwxr-xr-x 2 root root  65 Oct  2 13:18 tests
