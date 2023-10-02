@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "\"(\u00D4o)\'\n"
